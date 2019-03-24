@@ -2,4 +2,4 @@
 
 Solving Sudoku based on Opencv and Deep Learning
 
-![image](http://github.com/Nrusher/opencv_sudoku/raw/master/data/video/ans.png)
+![image](https://github.com/Nrusher/opencv_sudoku/blob/master/data/video/ans.png)
